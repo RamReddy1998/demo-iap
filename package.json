@@ -1,0 +1,13 @@
+{
+  "name": "Sum-app",
+  "version": "1.0.0",
+  "description": "A simple utility to add two numbers",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
